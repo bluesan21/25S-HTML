@@ -1,0 +1,61 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0; 
+  padding: 20px;
+}
+
+header {
+  text-align: center;
+  background-color: crimson;
+  color: white;
+  padding: 10px;
+}
+
+section {
+  margin: 20px 0;
+}
+
+form {
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+label {
+  margin-top: 10px;
+}
+
+input, select, button {
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+fieldset {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+button {
+  background-color: crimson;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: darkred; 
+}
+
+img {
+  display: inline-block;
+  margin: 10px;
+  max-width: 100%;
+  height: auto;
+}
+
+footer {
+  text-align: center;
+  background-color: crimson;
+  color: white;
+  padding: 5px;
+}
